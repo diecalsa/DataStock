@@ -16,6 +16,11 @@ It's an open source tool developed in Apache NiFi, Ludwig, Elasticsearch and Kib
 
 ## Datastocks Dashboard
 
-A dashboard has beed developed 
+A dashboard has beed developed in order to visualize the data. It enables the user to:
+
+- Visualize all the documents classified by it's content.
+- Visualize the location where de documents have been generated.
+- Visualize the most common tags.
+- Visualize the time series when the documents have been loaded to the database.
 
 !['Visualizacion'](https://github.com/diecalsa/DataStock/blob/main/src/visualizacion.gif)
