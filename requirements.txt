@@ -1,0 +1,5 @@
+ludwig
+ludwig[text]
+numpy
+nltk
+pandas
